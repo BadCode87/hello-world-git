@@ -22,7 +22,7 @@ Underline 2 (Simil cabecera H1)
 - Formato *italica* de la primera forma. 
 - Formato _italica_ de la segunda forma. 
 - Formato **bold o strong** de la primera forma. 
-- Formato __ bold o strong__ de la segunda forma. 
+- Formato __bold o strong__ de la segunda forma. 
 - Formato ~~tachado~~, formato normal . 
 
 - Aqui podemos usar el _**formato italico bold**_ , pero tambien **~~bold tachado~~**
