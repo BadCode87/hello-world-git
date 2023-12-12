@@ -1,4 +1,6 @@
 
+# Cabeceras
+
 # Cabecera H1
 ## Cabecera H2
 ### Cabecera H3
@@ -6,13 +8,15 @@
 ##### Cabecera H5
 ###### Cabecera H6
 
+# Underlines
+
 Underline 1 (Simil cabecera H2)
 -------------
 
 Underline 2 (Simil cabecera H1)
 =============
 
-Emphasis
+# Enfasis
 
 - Formato *italica* de la primera forma. 
 - Formato _italica_ de la segunda forma. 
@@ -21,4 +25,20 @@ Emphasis
 - Formato ~~tachado~~, formato normal . 
 
 - Aqui podemos usar el _**formato italico bold**_ , pero tambien **~~bold tachado~~**
+
+# Listas
+
+ ## Listas Ordenadas. 
+ 1. Esto es un item.
+ 2. Esto es un item.
+ 3. Esto es un item.
+
+## Listas Desordenadas.
+- Esto es un item de lista desordenadas.
+- Esto es un item de lista desordenadas.
+- Esto es un item de lista desordenadas.
+
+# Links
+- <a href = "https://www.google.com"> Esto es un link en HTML </a>
+- [Esto es un link en Markdown](https://www.google.com)
 
