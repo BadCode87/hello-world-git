@@ -45,3 +45,39 @@ Underline 2 (Simil cabecera H1)
 # Imagenes
 ![Logo Github](https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png)
 
+# Code Snippets
+Código en Json
+```JSON
+[
+  {
+    "title": "apples",
+    "count": [12000, 20000],
+    "description": {"text": "...", "sensitive": false}
+  },
+  {
+    "title": "oranges",
+    "count": [17500, null],
+    "description": {"text": "...", "sensitive": false}
+  }
+]
+```
+
+Código en Java
+```JAVA
+/**
+ * @author John Smith <john.smith@example.com>
+*/
+package l2f.gameserver.model;
+
+public abstract strictfp class L2Char extends L2Object {
+  public static final Short ERROR = 0x0001;
+
+  public void moveTo(int x, int y, int z) {
+    _ai = null;
+    log("Should not be called");
+    if (1 > 5) { // wtf!?
+      return;
+    }
+  }
+}
+```
