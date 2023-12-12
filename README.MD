@@ -81,3 +81,40 @@ public abstract strictfp class L2Char extends L2Object {
   }
 }
 ```
+
+# Tablas
+
+| Nombre | Apellido | Documento | 
+| ------ | -------  | --------- |
+| Angelo | Massa    | 896362    | 
+| Matteo | Massa    | 4803004   |  
+
+
+# Citas (Blockquotes)
+
+Esto lo dijo Seneca
+> Admira a quien lo intenta, aunque fracase.
+
+Este es otro texto que no esta relacionado con la cita anterior:
+> Esto es otra cita.
+
+# Lineas Divisoras. 
+
+Esto es un texto que será dividido usando guiones medios.
+
+---
+Esto es otro texto dividido dividido por asteriscos. 
+
+***
+Esto es otro texto dividido dividido por guiones bajos. 
+
+___
+
+# Saltos de línea (Linebreaks)
+Esto es nuestro primer parrafo.
+
+Esto es el segundo parrafo.
+
+Esto es el tercer parrafo. 
+- Lista
+
